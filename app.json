@@ -1,9 +1,9 @@
 {
   "name": "VCsMusicBot",
-  "logo": "https://telegra.ph/file/5a24274c6a6455f9a8d8f.png",
-  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
+  "logo": "https://telegra.ph/file/4ec1fcfbf7b03cdeb7c2e.jpg",
+  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by ❂​ꪀꪖ​ꪜꪖ​ꪀ𝓳ꪖ​ꪀꪖ 𝘴ꪖ𝓽​ꫝ𝘴𝓲​ꪀ​ᦔꪊ༒™Ꭰᥲʀκ͢☢Ӄᴎ͟͞ɪ͟͞ԍ͟͞ʜ͟͞ᴛ]™.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/LushaiMusic/VCsMusicBot",
+  "repository": "https://github.com/Captainamarica/Dark-Night-Music-Bot",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
